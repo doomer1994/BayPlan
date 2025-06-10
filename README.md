@@ -205,8 +205,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para detalhes.
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seuusername](https://github.com/seuusername)
-- Email: seu.email@exemplo.com
+- GitHub: [@doomer1994](https://github.com/doomer1994)
+- Email: everaldo8luiz@gmail.com
 
 ## 🙏 Agradecimentos
 
