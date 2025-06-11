@@ -15,7 +15,7 @@ O BayPlan é uma ferramenta especializada para planejamento naval que permite:
 - **Bay**: Seção vertical longitudinal do navio (fatias de frente para trás)
 - **Row**: Posição lateral (bombordo/estibordo)
 - **Tier**: Altura (porão/deck)
-- **Coordenadas**: Sistema 3D (Bay, Row, Tier) para localização precisa
+- **Coordenadas**: Sistema 2D (Bay, Row, Tier) para localização precisa
 
 ## 🚀 Tecnologias
 
