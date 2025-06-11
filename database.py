@@ -1,7 +1,7 @@
 import sqlite3
 
 # Caminho do banco de dados
-DB_PATH = r"C:\MeusProjetos\BayPlan\Stow_Planing.db"
+DB_PATH = "Stow_Planing.db"
 
 # Função principal para obter conexão
 def get_connection():
